@@ -1,0 +1,11 @@
+LICENSE.md
+MANIFEST.in
+README.md
+setup.py
+interpolate/__init__.py
+interpolate/newton.py
+interpolate/packageData/data.dat
+interpolation_package.egg-info/PKG-INFO
+interpolation_package.egg-info/SOURCES.txt
+interpolation_package.egg-info/dependency_links.txt
+interpolation_package.egg-info/top_level.txt
